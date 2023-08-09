@@ -747,5 +747,58 @@
       "description": "События всё не перестают происходить!",
       "userId": "1"
     }
+  ],
+  "article-ratings": [
+    {
+      "id": "1",
+      "rate": 4,
+      "feedback": "Херня, пиши ищо",
+      "userId": "1",
+      "articleId": "1"
+    },
+    {
+      "id": "2",
+      "rate": 2,
+      "feedback": "Збс, больше можно не писать",
+      "userId": "2",
+      "articleId": "1"
+    },
+    {
+      "id": "3",
+      "rate": 5,
+      "feedback": "Норм под пиво",
+      "userId": "1",
+      "articleId": "2"
+    },
+    {
+      "userId": "1",
+      "articleId": "3",
+      "rate": 3,
+      "feedback": "Такое себе",
+      "id": "NOuUxRJ"
+    }
+  ],
+  "profile-ratings": [
+    {
+      "id": "1",
+      "rate": 5,
+      "feedback": "Молодец, лидер и боец",
+      "userId": "1",
+      "profileId": "1"
+    },
+    {
+      "id": "2",
+      "rate": 2,
+      "feedback": "Неприятный тип",
+      "userId": "2",
+      "profileId": "1"
+    },
+    {
+      "id": "3",
+      "rate": 3,
+      "feedback": "Ни так ни сяк",
+      "userId": "1",
+      "profileId": "2"
+    }
   ]
 }
